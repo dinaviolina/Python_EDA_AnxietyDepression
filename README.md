@@ -2,6 +2,9 @@
 
 ## Project Portfolio Exploratory Data Analysis
 
+EDA atau Explanatory Data Analysis ini bertujuan untuk mengeksplorasi data dan menghasilkan informasi-informasi penting. Data yang saya gunakan merupakan data Anxiety Depression yang berasal dari Kaggle.com. Berikut adalah tautannya: 
+
+Anxiety Depresi
 
 **Goals :**
 1. A
