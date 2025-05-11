@@ -4,13 +4,13 @@
 
 
 **Goals :**
-1. 
+1. A
 2.
 3.
 4. Dengan analisis ini, dapat diketahui tingkatan anxi
 
 **Insights :**
-1.
+1. A
 2.
 3.
 4.
