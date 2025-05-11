@@ -3,7 +3,8 @@
 ## Project Portfolio Exploratory Data Analysis
 
 EDA atau Explanatory Data Analysis ini bertujuan untuk mengeksplorasi data dan menghasilkan informasi-informasi penting.  Data yang saya gunakan merupakan data Anxiety Depression yang berasal dari Kaggle.com. Dataset ini berisi tentang beberapa hal yang berkaitan dengan kecemasan, depresi, dan pengaruh kesehatan mental. Berikut adalah tautan untuk mengaksesnya: https://www.kaggle.com/datasets/ak0212/anxiety-and-depression-mental-health-factors/data 
-Dataset ini berjumlah data dan 21 fitur yang dibagi menjadi 5 kategori fitur, Berikut merupakan fitur yang tedapat pada data tersebut :
+Dataset ini berjumlah 1200 data dan 21 fitur yang dibagi menjadi 5 kategori fitur. 5 fitur bertipe data object, 13 data bertipe integer, dan 2 data bertipe float.
+ Berikut merupakan fitur yang tedapat pada data tersebut :
 Fitur yang berkaitan dengan demografi : 
 - Usia
 - Jenis Kelamin
