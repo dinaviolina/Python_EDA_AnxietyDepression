@@ -5,7 +5,7 @@
 
 **Goals :**
 1. A
-2.
+2. Tingkatan umur yang paling banyak mengalami depresi
 3.
 4. Dengan analisis ini, dapat diketahui tingkatan anxi
 
