@@ -80,7 +80,10 @@ Low 389 responden
 **Analisis Bivariate**
 - Rata-rata tingkat stress berdasarkan pekerjaan
 - Rata-rata tingkat stress berdasarkan tingkat pendidikan
+
+- 
 **Feature Engineering**
+  
 ![image](https://github.com/user-attachments/assets/91aec506-a1a7-4132-b512-d88c63a15320)
 ![image](https://github.com/user-attachments/assets/216f8205-1b21-40b0-8339-a6af4b065195)
 
