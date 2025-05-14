@@ -38,26 +38,24 @@ Fitur faktor tambahan :
 - Kepuasan Hidup
 - Kesepian
 
-**Goals :**
-1. A
-2. Tingkatan umur yang paling banyak mengalami depresi
-3.
-4. Dengan analisis ini, dapat diketahui tingkatan anxi
+**Workflow**
+1. Business Understanding
+   
+3. Data Preparation
+4. Data Claned
+5. Analisi dan Visualisasi
 
-**Insights :**
-1. A
-2.
-3.
-4.
-5.
-6.
-7.
 
-**Advices :**
-1. Setiap sekolah, tempat kerja, meneydiakan kesehatan mental 
-2. Apakah kurang tidur benar-benar terkait dengan stres tinggi?
-3.
-4.
+
+**Insight  :**
+1. Hubungan tingkat pendidikan dengan tingkat stres :
+Terdapat perbedaan rata-rata stres antar kelompok pendidikan.
+TIngkat pendidikan yang lebih rendah(SMA/SMK) memiliki tingkat stres yang lebih tinggi dibandingkan Sarjana dan Doktor(PHD)
+2. Hubungan status pekerjaan dengan tingkat stres:
+Perbedaan signifikan juga terlihat antar kelompok pekerjaan.
+Tingkat stres tertinggi pada responden yang tidak bekerja dan tingkat stres terendah pada responden yang sudah pensiun.
+3. Dari 20 fitur X, visualissi diatas menunjukkan fitur yang paling berpengaruh dalam Anxiety dan Depresi adalah fitur family_history_mental_illnes.
+
 
 
 
