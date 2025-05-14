@@ -46,7 +46,23 @@ Fitur faktor tambahan :
 
    
 ### 2. Data Preparation
+- Melakukan pengecekan statistik deksriptif dataset
+- Melakukan pengecekan tipe data dan informasi dataset
+- Mengidentifikasi jumlah nilai yang hilang
+- Mengidentifikasi jumlah data yang duplikat
+- Mengidentifikasi fitur data yang mengalami outlier
+
+Hasil pengecakan menunjukkan hasil sebagai berikut:
+- 5 kolom yang bertipe data object, diubah menjadi numerik menggunakan library label encoding
+- Tipe data float64 berjumlah 2 pada kolom sleep_hours and physical_activity_hrs,tipe data integer pada 14 kolom, dan tipe data object terdapat pada 5 kolom.
+- Didapatkan data yang missing value terdapat pada  fitur ‘Medication_use’ dan ‘Substance_use’ , kolom tersebut bertipe data object. Untuk mengatasi missing value tersebut menggunakan mode atau modus dari masing--masing kolom.
+- Tidak ditemukan data yang du[;ikat pada dataset ini
+- Didapatkan 6 fitur yang outlier, yaitu fitur gender, Sleep_Hours, Physical_Activity_Hrs, Medication_Use, Therapy, dan Substance_Use
+
+
 ### 3. Data Cleaned
+
+
 ### 4. Analisis dan Visualisasi
 
 
