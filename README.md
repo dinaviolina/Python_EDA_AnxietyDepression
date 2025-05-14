@@ -1,6 +1,6 @@
 # Python_EDA_AnxietyDepression
 
-## Project Portfolio Exploratory Data Analysis
+## 🎯Mini Portfolio Exploratory Data Analysis
 
 EDA atau Explanatory Data Analysis ini bertujuan untuk mengeksplorasi data dan menghasilkan informasi-informasi penting. 
 
