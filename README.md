@@ -2,7 +2,10 @@
 
 ## Project Portfolio Exploratory Data Analysis
 
-EDA atau Explanatory Data Analysis ini bertujuan untuk mengeksplorasi data dan menghasilkan informasi-informasi penting.  Data yang saya gunakan merupakan data Anxiety Depression yang berasal dari Kaggle.com. Dataset ini berisi tentang beberapa hal yang berkaitan dengan kecemasan, depresi, dan pengaruh kesehatan mental. Berikut adalah tautan untuk mengaksesnya: https://www.kaggle.com/datasets/ak0212/anxiety-and-depression-mental-health-factors/data 
+EDA atau Explanatory Data Analysis ini bertujuan untuk mengeksplorasi data dan menghasilkan informasi-informasi penting. 
+## Workflow
+### 1. Business Understanding
+Data yang saya gunakan merupakan data Anxiety Depression yang berasal dari Kaggle.com. Dataset ini berisi tentang beberapa hal yang berkaitan dengan kecemasan, depresi, dan pengaruh kesehatan mental. Berikut adalah tautan untuk mengaksesnya: https://www.kaggle.com/datasets/ak0212/anxiety-and-depression-mental-health-factors/data 
 Dataset ini berjumlah 1200 data dan 21 fitur yang dibagi menjadi 5 kategori fitur. 5 fitur bertipe data object, 13 data bertipe integer, dan 2 data bertipe float.
  Berikut merupakan fitur yang tedapat pada data tersebut :
 Fitur yang berkaitan dengan demografi : 
@@ -38,16 +41,15 @@ Fitur faktor tambahan :
 - Kepuasan Hidup
 - Kesepian
 
-**Workflow**
-1. Business Understanding
+
    
-3. Data Preparation
-4. Data Claned
-5. Analisi dan Visualisasi
+### 2. Data Preparation
+### 3. Data Cleaned
+### 4. Analisis dan Visualisasi
 
 
 
-**Insight  :**
+## Insight  :
 1. Hubungan tingkat pendidikan dengan tingkat stres :
 Terdapat perbedaan rata-rata stres antar kelompok pendidikan.
 TIngkat pendidikan yang lebih rendah(SMA/SMK) memiliki tingkat stres yang lebih tinggi dibandingkan Sarjana dan Doktor(PHD)
