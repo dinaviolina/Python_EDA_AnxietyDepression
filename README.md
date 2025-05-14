@@ -62,9 +62,27 @@ Hasil pengecakan menunjukkan hasil sebagai berikut:
 
 ### 3. Data Cleaned
 
+- Membersihkan data yang missing value menggunakan nilai modus masing-masing kolom
+- Melakukan Label Encoder yaitu merubah variabel kategori(object)  menjadi nilai numerik
+- Membersihkan outlier pada dataset
 
 ### 4. Analisis dan Visualisasi
+Analisis yang didapatkan dalam  proyek ini adalah sebagai berikut:
+**Data Visualization **
+![image](https://github.com/user-attachments/assets/01b4fd6e-5c7b-4125-8bd6-21f5029d5573)
 
+Kategori Level Stress:
+Medium 419 responden
+High 392 responden
+Low 389 responden
+** Analisis Univariate**
+
+**Analisis Bivariate**
+- Rata-rata tingkat stress berdasarkan pekerjaan
+- Rata-rata tingkat stress berdasarkan tingkat pendidikan
+**Feature Engineering**
+![image](https://github.com/user-attachments/assets/91aec506-a1a7-4132-b512-d88c63a15320)
+![image](https://github.com/user-attachments/assets/216f8205-1b21-40b0-8339-a6af4b065195)
 
 
 ## Insight  :
